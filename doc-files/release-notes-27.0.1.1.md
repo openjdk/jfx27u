@@ -14,6 +14,4 @@ Issue Key | Summary | Subcomponent
 
 ## List of Security fixes
 
-Issue Key | Summary | Subcomponent
---------- | ------- | ------------
-JDK-nnnnnnn (not public) | TITLE | SUBCOMPONENT
+NONE
